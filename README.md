@@ -20,15 +20,15 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 2014 Market Data:
 
-(Images/market_data_2014.png)
+![image](https://user-images.githubusercontent.com/77372688/132958617-788dd46e-4a55-4166-9106-642d4b925268.png)
 
 2015 Market Data:
 
-(Images/market_data_2015.png)
+![image](https://user-images.githubusercontent.com/77372688/132958624-6ebe20ee-9538-4d5f-9743-787a43ba8851.png)
 
-2015 Market Data:
+2016 Market Data:
 
-(Images/market_data_2016.png)
+![image](https://user-images.githubusercontent.com/77372688/132958629-2a99141f-8795-42ab-a975-78e23d31e65c.png)
 
 - - -
 
